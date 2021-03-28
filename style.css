@@ -1,0 +1,17 @@
+body {
+    font-family: 'Cookie', cursive;
+    background-color: rgb(51, 51, 51);
+    color: floralwhite;
+    position: absolute;
+    margin: auto;
+    width: 50%;
+    border: 3px solid rgb(228, 228, 228);
+    padding: 10px;
+    text-align: center;
+    vertical-align: middle;
+    margin-left: 400px;
+}
+
+button {
+    width: 100px;
+}
